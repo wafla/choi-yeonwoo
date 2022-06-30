@@ -1,5 +1,5 @@
 # wafla
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=YeonWoo-Choi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=wafla&fontSize=90)
 ## Awards
 <ul>
         <li>(2022) 대경권 대학생 프로그래밍 경진대회 최우수상</li>
