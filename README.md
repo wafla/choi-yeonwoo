@@ -8,4 +8,5 @@
 ## Stack
 
 <img src="https://img.shields.io/badge/C-3178C6?style=flat&logo=#A8B9CC&logoColor=white"/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangguzi)](https://solved.ac/jjangguzi/)
