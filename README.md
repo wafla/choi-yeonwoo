@@ -1,4 +1,3 @@
-# wafla
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=wafla&fontSize=50)
 ## Awards
 <ul>
