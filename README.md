@@ -1,5 +1,11 @@
 # wafla
 ## Award
-(2022) 대경권 프로그래밍 경진대회 최우수상<hr/>
-(2022) 한국멀티미디어학회 학부생 논문경진대회 동상<hr/>
+<h3><li>과제 배경 및 필요성</li></h3>
+    2022년도 1학기 컴퓨터그래픽스 수업에서 배운 내용은 다음과 같다:<br/>
+<ul>
+        <li>Processing</li>
+        <li>p5.js</li>
+        <li>OpenGL</li>
+        <li>ml5.js</li>
+    </ul>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangguzi)](https://solved.ac/jjangguzi/)
