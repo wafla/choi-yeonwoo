@@ -11,6 +11,6 @@
 ![image align="center"](https://img.shields.io/badge/C++-3178C6?style=flat&logo=C%2B%2B&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/Java-3178C6?style=flat&logo=Java&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=JavaScript&logoColor=white)
-![image align="center"](https://img.shields.io/badge/Python-#F40D12?style=flat&logo=Python&logoColor=white)
+![image align="center"](https://img.shields.io/badge/Python-F40D12?style=flat&logo=Python&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangguzi)](https://solved.ac/jjangguzi/)
