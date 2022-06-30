@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=wafla&fontSize=50)
 
-<img src="https://img.shields.io/badge/C-3178C6?style=flat&logo=#A8B9CC&logoColor=white"/>
-
 ## Awards
 <ul>
         <li>(2022) 대경권 대학생 프로그래밍 경진대회 최우수상</li>
