@@ -5,7 +5,5 @@
         <li>(2022) 한국멀티미디어학회 학부생 논문경진대회 동상</li>
 </ul>
 ## Stack
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=#A8B9CC&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-3178C6?style=flat&logo=#A8B9CC&logoColor=white"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangguzi)](https://solved.ac/jjangguzi/)
