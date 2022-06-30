@@ -9,6 +9,7 @@
 ## Stack
 ![image align="center"](https://img.shields.io/badge/C-3178C6?style=flat&logo=#A8B9CC&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/C++-3178C6?style=flat&logo=#00599C&logoColor=white)
+![image align="center"](https://img.shields.io/badge/Java-3178C6?style=flat&logo=#F7DF1E&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=#F7DF1E&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/Python-3178C6?style=flat&logo=#3776AB&logoColor=white)
 
