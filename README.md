@@ -7,11 +7,9 @@
 </ul>
 
 ## Stack
-<ul>
 ![image align="center"](https://img.shields.io/badge/C-3178C6?style=flat&logo=#A8B9CC&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/C++-3178C6?style=flat&logo=#00599C&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=#F7DF1E&logoColor=white)
 ![image align="center"](https://img.shields.io/badge/Python-3178C6?style=flat&logo=#3776AB&logoColor=white)
-</ul>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjangguzi)](https://solved.ac/jjangguzi/)
